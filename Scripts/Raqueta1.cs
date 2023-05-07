@@ -13,3 +13,7 @@ public class Raqueta1 : MonoBehaviour
         GetComponent<Rigidbody2D>().velocity = new Vector2(0, v) * velocidadMovimiento;
     }
 }
+
+
+
+
